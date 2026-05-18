@@ -3,7 +3,7 @@
 A personal Mobile Legends Bang Bang session tracker built with React. Log your matches, track your KDA, monitor your win rate, and visualise your performance over time.
 
 ## 🌐 Live Demo
-[Click here to view the live app](YOUR_VERCEL_URL)
+[Click here to view the live app](https://mlbb-tracker.vercel.app/)
 
 ## 📸 Features
 - ⚔️ Log sessions with hero, role, KDA, result, rank, and duration
